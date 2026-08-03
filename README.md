@@ -23,3 +23,9 @@ Licencia: [CC BY-SA 4.0](LICENSE.md).
 Estas versiones permanecen abiertas bajo CC BY-SA 4.0. Si te sirven y deseas
 ayudar a sostener su traducción, corrección, publicación y trabajo continuo,
 visita [selahproject.com/support](https://selahproject.com/support).
+
+## Contribuye con una corrección
+
+Invitamos a lectores de hebreo, estudiantes de los comentaristas y editores
+cuidadosos de español a ayudar. Lee [CONTRIBUTING.md](CONTRIBUTING.md): corregir
+la traducción de Selah no es lo mismo que reescribir en silencio la fuente.
