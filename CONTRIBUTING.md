@@ -41,3 +41,8 @@ atribución y el historial de correcciones. El equipo mantenedor compara la
 propuesta con la fuente hebrea, la voz del comentarista y la evidencia. Puede
 aceptarla, revisarla, esperar más evidencia o rechazarla explicando la razón.
 Sé preciso, paciente y respetuoso.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
