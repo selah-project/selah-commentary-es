@@ -15,7 +15,7 @@ comentarista.
 Voces: Baal HaTurim · Chizkuni · Daat Zkenim · Ibn Ezra · Kli Yakar ·
 Or HaChaim · Rabbeinu Bahya · Ramban · Rashbam · Sforno.
 
-Parte del [proyecto Selah](https://selahproject.org).
+Parte del [proyecto Selah](https://selahproject.com).
 Licencia: [CC BY-SA 4.0](LICENSE.md).
 
 ## Apoya a Selah
